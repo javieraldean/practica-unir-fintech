@@ -1,0 +1,8 @@
+android
+apple
+samsung
+huawei
+microsoft
+hp
+lenovo
+samsung
